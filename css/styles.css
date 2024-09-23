@@ -55,4 +55,5 @@ tr:nth-child(odd) {
     margin: auto;
     padding: 60px;
     width: 60%;
+    text-align: center;
 }
