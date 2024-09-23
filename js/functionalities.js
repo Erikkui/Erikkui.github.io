@@ -29,7 +29,7 @@ async function generateTable() {
 function addTableRows( table, data1, data2 ) {
 
     for (let ii = 0; ii < data1.length; ii++ ) {
-        let row = table.insertRow()
+        let row = table.getElementsByTagName("tbody")[0].insertRow()
         let municCell = row.insertCell()
         let populCell = row.insertCell()
 
