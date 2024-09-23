@@ -1,0 +1,31 @@
+
+html {
+    font-size: 16px
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0 auto;
+}
+
+td {
+    padding: 6px;
+    border-bottom: 1px solid gray;
+}
+
+th {
+    background-color: #b7d0ff;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-right: 0px;
+    padding-bottom: 12px;
+    padding-left: 6px;
+    border-bottom: 2px solid gray
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 16px;
+    text-align: left;
+}
