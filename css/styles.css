@@ -44,6 +44,13 @@ tr:nth-child(odd) {
     background-color: #ffffff;
 }
 
+.over-45 {
+    background-color: #abffbd !important;
+}
+.under-25 {
+    background-color: #ff9e9e !important;
+}
+
 .center {
     margin: auto;
     padding: 60px;
